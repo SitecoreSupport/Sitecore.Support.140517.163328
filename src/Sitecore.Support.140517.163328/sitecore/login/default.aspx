@@ -22,7 +22,10 @@
   </script>
 
   <!-- Bootstrap for testing -->
-  <link href="Login.css" rel="stylesheet" />
+  <link href="/sitecore/shell/Themes/Standard/Default/Login.css" rel="stylesheet" />
+
+  <!-- jQuery for testing -->
+  <script src="/sitecore/shell/Controls/Lib/jQuery/jquery-1.10.2.min.js"></script>
 
   <style>
 
@@ -39,7 +42,7 @@
     <div class="login-main-wrap">
       <div class="login-box">
         <div class="logo-wrap">
-          <img src="login/logo_new.png" alt="Sitecore logo" />
+          <img src="/sitecore/shell/Themes/Standard/Images/Login/logo.png" alt="Sitecore logo" />
         </div>
 
         <form id="LoginForm" runat="server" class="form-signin" role="form">
