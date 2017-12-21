@@ -85,7 +85,6 @@
     <Content Include="sitecore\shell\Applications\Media\UploadManager\Uploading.aspx" />
     <Content Include="sitecore\shell\Applications\PageScreenshots\default.aspx" />
     <Content Include="sitecore\shell\Applications\WebDAV\Default.aspx" />
-    <Content Include="sitecore\shell\client\Applications\PathAnalyzer\help\default.aspx" />
     <Content Include="sitecore\shell\Controls\Error.htm" />
   </ItemGroup>
   <ItemGroup>
